@@ -309,7 +309,9 @@ Nikolai, L. A., Meyer, C. G., Kremsner, P. G., & Velavan, T. P. (2020). Asymptom
 
 Pan, J., Harb, C., Leng, W., & Marr, L. C. (2020). Inward and outward effectiveness of cloth masks, a surgical mask, and a face shield. medRxiv. [DOI: 10.1101/2020.11.18.20233353](https://doi.org/10.1101/2020.11.18.20233353)
 
-Sharif-Askari, N. S., Sharif-Askari, F. S., Alabed, M., Temsah, M. H., Al Heialy, S., Hamid, Q., & Halwani, R. (2020). Airways Expression of SARS-CoV-2 Receptor, ACE2, and TMPRSS2 Is Lower in Children Than Adults and Increases with Smoking and COPD. Mol Ther Methods Clin Dev, 18, 1-6. [DOI: 10.1016%2Fj.omtm.2020.05.013](https://dx.doi.org/10.1016%2Fj.omtm.2020.05.013)
+Polack, F.P., Thomas, S.J., Kitchin, N., Absalon, J., Gurtman, A., Lockhart, S., Perez, J.L., Pérez, M.G., et al. (2020). N Engl J Med. [DOI: 10.1056/NEJMoa2034577](10.1056/NEJMoa2034577)
+
+Voysey, M., Clemens, S.A.C., Mahi, S.A., Weckx, L.Y., Folegatti, M.D., Aley, P.K., et al. (2020). Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: an interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK. The Lancet. [DOI:10.1016/S0140-6736(20)32661-1](https://doi.org/10.1016/S0140-6736(20)32661-1)
 
 Walsh, K. A., Jordan, K., Clyne, B., Rohde, D., Drummond, L., Byrne, P., ... & O'Neill, M. (2020). SARS-CoV-2 detection, viral load and infectivity over the course of an infection: SARS-CoV-2 detection, viral load and infectivity. Journal of Infection. [DOI: 10.1016/j.jinf.2020.06.067](10.1016/j.jinf.2020.06.067)  
 
